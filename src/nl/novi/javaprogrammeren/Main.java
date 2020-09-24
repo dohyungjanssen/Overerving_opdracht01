@@ -49,7 +49,10 @@ public class Main {
     Alle dieren moeten kunnen bewegen. Dit moet als methode toegevoegd worden. Wanneer een huisdier beweegt print je in
     de console dat deze 0.25 is verplaatst. Bij alle andere dieren is dat 0.50.
 
+    Zorg er voor dat alleen de concrete klassen geinstantieerd kunnen worden. Zijn methodes zo verschillend dat ze
+    specifiek voor 1 dier zijn, misschien moet die dan abstract worden.
 
+    Zorg ervoor dat elk dier een eigen geluid maakt.
      */
 
     public static void main (String[] args) {
