@@ -1,5 +1,10 @@
 package nl.novi.javaprogrammeren;
 
+import nl.novi.javaprogrammeren.overerving.Animal;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
 
     // LET OP: het eerste gedeelte is hetzelfde als de klassikale opdracht.
@@ -18,6 +23,7 @@ public class Main {
     herkomst op. Ook willen we het aantal strepen weten.
 
     Van een Hond slaan we naam, naam van het baasje, favoriete voedselmerk, geslacht en soort op.
+
     Van een Kat slaan we de naam, naam van het baasje, favoriete voedsel merk, geslacht en soort op. Ook willen we weten
     of het een binnen of buitenkat is.
 
@@ -56,6 +62,7 @@ public class Main {
      */
 
     public static void main (String[] args) {
+
 
     }
 }
